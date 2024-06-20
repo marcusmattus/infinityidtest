@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "files.autoSaveWhenNoErrors": true,
+    "editor.suggest.insertMode": "insert",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
